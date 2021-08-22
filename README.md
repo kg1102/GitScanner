@@ -8,5 +8,6 @@
 * ``intitle:"index of" ".git" site:com.br``
 * ``intitle:"index of" ".git" site:com``
 
+# Screenshots
 
-
+<img src=".github/exposed-git.png"/>
