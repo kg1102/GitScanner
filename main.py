@@ -9,6 +9,7 @@ import socket
 import sys
 import urllib3
 from urllib.parse import urljoin
+import lucko from lucko
 
 def removeDuplicate(url):
 	return list(dict.fromkeys(url))
